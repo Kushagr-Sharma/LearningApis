@@ -1,7 +1,7 @@
 body{
   margin:0;
   padding:0;
-  font-family:Arial, 'Times New Roman', sans-serif;
+  font-family:sans-serif,Arial, 'Times New Roman';
   background-image: url('https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   background-color: #000000;
   color:#ffffff;
